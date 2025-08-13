@@ -1,1 +1,1 @@
-console.log("add product");
+console.log("add product, that ok");
